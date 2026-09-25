@@ -1,24 +1,21 @@
 # OUTREACH
 Is a voxel sandbox game heavily focused on creativity, complete building freedom.
 
-## Overview
-The project offers an infinite, procedurally generated world with no boundaries for your imagination. Throughout its development, the game successfully went through three major architectural iterations:
 
-1. **Origin:** A 2D side-scroller inspired by *Terraria*.
-2. **Transition:** A 3D liminal space environment after the integration of the *Voxel Tools* plugin (inspired by *Voima* and *The Backrooms*).
-3. **Current State:** A unique voxel-based sandbox that has moved beyond its initial inspirations to establish its own visual identity and mechanics.
 
 ## Technical Stack
-* **Engine:** Godot 4.6 (Core target)
+* **Engine:** Godot 4.6
 * **Voxel Logic:** `Voxel Tools` C++ module/extension.
-* **Performance:** The project is currently in an active optimization phase. While not yet fully optimized, the core architecture is designed with a focus on achieving high performance in large-scale voxel environments.
-* **AI Integration:** This project utilizes **AI-assisted development**. Large language models (LLMs) were employed for code optimization, algorithmic restructuring, and boilerplate generation to ensure high development velocity and structural efficiency.
+
+
 
 ## Getting Started
 ### Prerequisites
 * **Godot Engine:** 4.5+ (Stable **4.6** recommended).
 * **Plugins:** `Voxel Tools` ([official realise page](https://github.com/Zylann/godot_voxel/releases/tag/v1.6x)).
 * **Templates:** Standard Godot Export Templates for target platforms.
+
+
 
 ### Installation
 1. Clone the repository:
@@ -27,15 +24,3 @@ The project offers an infinite, procedurally generated world with no boundaries 
    ```
 2. Install the required `Voxel Tools` extension in the `addons/` directory.
 3. Import the project into Godot 4.6.
-
-## Credits
-* **Kukemanov Daniil:** Project Lead, Lead Programmer, Composer, Sound Design.
-* **cc19:** Lead Sprite Artist.
-* **Kukemanov Daniil:** Additional Art & Sprites.
-
-### Special Thanks
-* **cc19** — For significant contributions to the project's visual direction and development.
-
-## Play the game
-* [Play on Itch.io](https://kykemanov-daniil.itch.io/outreach)
-* [Play on Game Jolt](https://gamejolt.com/games/OutReach/1055108)
