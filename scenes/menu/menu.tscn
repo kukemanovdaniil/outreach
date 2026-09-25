@@ -130,7 +130,7 @@ size_flags_horizontal = 8
 size_flags_vertical = 8
 theme = SubResource("Theme_t0a87")
 theme_override_font_sizes/font_size = 14
-text = "© Кукеманов Даниил | MIT License"
+text = "© Kukemanov Daniil | GPLv3 License"
 
 [node name="intro" type="CanvasLayer" parent="." unique_id=1891489493]
 unique_name_in_owner = true
